@@ -1,0 +1,3 @@
+Questionnaire: Design and implement an endpoint for a questionnaire system that allows users to choose and complete a test from a selection of available tests. The tests consist of multiple-choice questions (MCQs) with single or multiple correct answers. Each test can have a varying number of questions. The test and question details can be hardcoded in the database.
+
+Your task is to create an endpoint that handles user responses, stores their answers, calculates the score obtained, and returns the score to the user. Please make reasonable assumptions for any unspecified details or requirements.
